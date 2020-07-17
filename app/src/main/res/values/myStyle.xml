@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fd1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/purple2</item>
+    </style>
+    <style name="fd2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">20sp</item>
+
+    </style>
+    <style name="AppThemeRatingBar" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/purple2</item>
+        <item name="android:colorControlNormal">@color/purple2</item>
+    </style>
+</resources>
